@@ -1,6 +1,6 @@
-##Frontend Practice Repository
+## Frontend Practice Repository
 
-This repository contains all the frontend projects and code snippets I have practiced while learning frontend development. It includes various implementations using HTML, CSS, JavaScript, Bootstrap, and other frontend technologies.
+This repository contains all the front-end projects and code snippets I have practiced while learning front-end development. It includes various implementations using HTML, CSS, JavaScript, Bootstrap, and other front-end technologies.
 
 ## 🚀 Technologies Used
 
